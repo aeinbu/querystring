@@ -1,0 +1,26 @@
+{
+  "name": "querystring-util",
+  "version": "1.0.0",
+  "description": "A small Javascript utility to create and parse querystrings",
+  "main": "querystring.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/suite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aeinbu/querystring.git"
+  },
+  "keywords": [
+    "querystring"
+  ],
+  "author": "Arjan Einbu",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/aeinbu/querystring/issues"
+  },
+  "homepage": "https://github.com/aeinbu/querystring#readme",
+  "devDependencies": {}
+}
